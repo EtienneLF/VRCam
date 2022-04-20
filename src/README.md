@@ -1,6 +1,6 @@
 # VRCam
 
-## VRCam est un outil d'aide au placement de caméra de surveillance.
+VRCam est un outil d'aide au placement de caméra de surveillance.
 Pour utiliser le logiciel, il faut que vous téléchargiez notre projet et que vous execuitiez le fichier executable situé dans le dossier "exe".
 
 # __Commandes__
